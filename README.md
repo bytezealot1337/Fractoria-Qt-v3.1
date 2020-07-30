@@ -2,7 +2,7 @@
 
 Yet Another Fractal Rendering Software...
 
-To render and save AVI Video Files from the BMP Images obtained from your Animations, simply copy "mencoder.exe" to your Fractoria Working Directory.
+To save AVI Video Files from the BMP Images obtained from your Animations, simply copy "mencoder.exe" to your Fractoria Working Directory.
 
 Have Fun :)
 
